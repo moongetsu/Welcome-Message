@@ -6,7 +6,7 @@ This plugin doesn't have translations, but if you want i can add.
 # Requirements: ❗
 SourceMod [1.10](https://www.sourcemod.net/downloads.php?branch=1.10-dev&all=1) or [higher](https://www.sourcemod.net/downloads.php?branch=stable).
 
-[MultiColors](https://github.com/Bara/Multi-Colors)
+[Multi-Colors](https://github.com/Bara/Multi-Colors)
 
 
 # Instalation 🛠
