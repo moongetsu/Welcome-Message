@@ -75,7 +75,7 @@ public Action Timer_DelaySpawn(Handle timer, any data)
 	g_cDiscordServer.GetString(sDiscordServer, sizeof(sDiscordServer));
 	CPrintToChat(client, "{orchid}-----------------------------------------------------------------------------------------", client);
 	CPrintToChat(client, "{orchid}» {default}Hey, {orchid}%N{default}, welcome to {orchid}%s{default}.", client, sServerName);
-	CPrintToChat(client, "{orchid}» {default}Before playing please make sure to read our rules by syping {orchid}!rules {default}in the chat!", client);
+	CPrintToChat(client, "{orchid}» {default}Before playing please make sure to read our rules by typing {orchid}!rules {default}in the chat!", client);
 	CPrintToChat(client, "{orchid}» {default}Don't forget to join our Discord server: {orchid}%s{default}.", sDiscordServer, client);
 	CPrintToChat(client, "{orchid}» {default}Have Fun ^^", client);
 	CPrintToChat(client, "{orchid}-----------------------------------------------------------------------------------------", client);
