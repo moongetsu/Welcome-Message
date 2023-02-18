@@ -1,13 +1,16 @@
-# Welcome Message 👀
-Updated & Simplified version of [[CS:GO] Welcome Chat Message](https://forums.alliedmods.net/showthread.php?t=305426).
+# SourceMod Helper 👀
+A software that can be useful for SourceMod Developers.
 
-This plugin doesn't have translations, but if you want i can add.
+# Features 🧐​
+- Compiles a plugin by choosing the sourcemod version
 
-# Requirements: ❗
-SourceMod [1.10](https://www.sourcemod.net/downloads.php?branch=1.10-dev&all=1) or [higher](https://www.sourcemod.net/downloads.php?branch=stable).
+# Instalation ❗
+- Download the archive from the [releases](https://github.com/moongetsu/sourcemod-helper/releases)
+- Extract the archive in a Folder
+- Edit the path from start.bat 
+- Run start.bat
 
-[Multi-Colors](https://github.com/Bara/Multi-Colors)
+## Screenshots
 
+![App Screenshot](https://media.discordapp.net/attachments/977518313217347604/1076388300757147678/Screenshot_2.png?width=872&height=468)
 
-# Instalation 🛠
-Unpack and upload the files on your server.
