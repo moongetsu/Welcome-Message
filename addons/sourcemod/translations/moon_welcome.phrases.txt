@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Message 1"
+	{
+		"#format" "{1:N}"
+		"en" "{darkred}» {default}Hey, {darkred}{1}{default}, welcome to {darkred}SERVER NAME{default}."
+	}
+
+	"Message 2"
+	{
+		"en" "{darkred}» {default}Before playing please make sure to read our rules by typing {darkred}!rules {default}in the chat!"
+	}
+
+	"Message 3"
+	{
+		"en" "{darkred}» {default}Don't forget to join our Discord server: {darkred}discord.gg/server{default}."
+	}
+
+	"Message 4"
+	{
+		"en" "{darkred}» {default}Have Fun ^^"
+	}
+}
